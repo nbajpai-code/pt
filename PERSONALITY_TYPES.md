@@ -5,7 +5,10 @@ This resource explores the most prominent personality typing systems used for se
 ## 1. Myers-Briggs Type Indicator (MBTI)
 
 ### Overview
-Based on Carl Jung's theory of psychological types, the MBTI categorizes individuals into 16 distinct personality types based on preferences across four dichotomies.
+Based on [Carl Jung's theory of psychological types](https://en.wikipedia.org/wiki/To_Have_or_to_Be%3F), the **[Myers-Briggs Type Indicator (MBTI)](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)** categorizes individuals into 16 distinct personality types based on preferences across four dichotomies.
+
+*   **Official Website:** [MBTIonline.com](https://www.mbtionline.com)
+*   **Descriptions:** [16Personalities](https://www.16personalities.com/personality-types)
 
 ### The Four Dichotomies
 1.  **Extraversion (E) vs. Introversion (I):**
@@ -24,29 +27,32 @@ Based on Carl Jung's theory of psychological types, the MBTI categorizes individ
 ### The 16 Types
 | Type | Description | Key Traits |
 | :--- | :--- | :--- |
-| **ISTJ** | The Inspector | Reliable, practical, orderly |
-| **ISFJ** | The Protector | Warm, conscientious, responsible |
-| **INFJ** | The Counselor | Insightful, idealistic, principled |
-| **INTJ** | The Mastermind | Strategic, logical, independent |
-| **ISTP** | The Craftsman | Analytical, adaptable, practical |
-| **ISFP** | The Composer | Gentle, sensitive, spontaneous |
-| **INFP** | The Healer | Creative, empathetic, idealistic |
-| **INTP** | The Architect | Analytical, abstract, theoretical |
-| **ESTP** | The Dynamo | Energetic, pragmatic, action-oriented |
-| **ESFP** | The Performer | Enthusiastic, spontaneous, fun-loving |
-| **ENFP** | The Champion | Creative, enthusiastic, sociable |
-| **ENTP** | The Visionary | Innovative, outspoken, strategic |
-| **ESTJ** | The Supervisor | Organized, practical, decisive |
-| **ESFJ** | The Provider | Helpful, sociable, conscientious |
-| **ENFJ** | The Teacher | Charismatic, inspiring, supportive |
-| **ENTJ** | The Commander | Bold, imaginative, strong-willed |
+| **[ISTJ](https://www.16personalities.com/istj-personality)** | The Inspector | Reliable, practical, orderly |
+| **[ISFJ](https://www.16personalities.com/isfj-personality)** | The Protector | Warm, conscientious, responsible |
+| **[INFJ](https://www.16personalities.com/infj-personality)** | The Counselor | Insightful, idealistic, principled |
+| **[INTJ](https://www.16personalities.com/intj-personality)** | The Mastermind | Strategic, logical, independent |
+| **[ISTP](https://www.16personalities.com/istp-personality)** | The Craftsman | Analytical, adaptable, practical |
+| **[ISFP](https://www.16personalities.com/isfp-personality)** | The Composer | Gentle, sensitive, spontaneous |
+| **[INFP](https://www.16personalities.com/infp-personality)** | The Healer | Creative, empathetic, idealistic |
+| **[INTP](https://www.16personalities.com/intp-personality)** | The Architect | Analytical, abstract, theoretical |
+| **[ESTP](https://www.16personalities.com/estp-personality)** | The Dynamo | Energetic, pragmatic, action-oriented |
+| **[ESFP](https://www.16personalities.com/esfp-personality)** | The Performer | Enthusiastic, spontaneous, fun-loving |
+| **[ENFP](https://www.16personalities.com/enfp-personality)** | The Champion | Creative, enthusiastic, sociable |
+| **[ENTP](https://www.16personalities.com/entp-personality)** | The Visionary | Innovative, outspoken, strategic |
+| **[ESTJ](https://www.16personalities.com/estj-personality)** | The Supervisor | Organized, practical, decisive |
+| **[ESFJ](https://www.16personalities.com/esfj-personality)** | The Provider | Helpful, sociable, conscientious |
+| **[ENFJ](https://www.16personalities.com/enfj-personality)** | The Teacher | Charismatic, inspiring, supportive |
+| **[ENTJ](https://www.16personalities.com/entj-personality)** | The Commander | Bold, imaginative, strong-willed |
 
 ---
 
 ## 2. The Enneagram
 
 ### Overview
-The Enneagram describes nine distinct personality types, grouped into three "centers of intelligence": Heart, Head, and Gut (Body). It focuses on core motivations, fears, and desires.
+The **[Enneagram](https://www.enneagraminstitute.com/how-the-enneagram-system-works)** describes nine distinct personality types, grouped into three "centers of intelligence": Heart, Head, and Gut (Body). It focuses on core motivations, fears, and desires.
+
+*   **Official Resource:** [The Enneagram Institute](https://www.enneagraminstitute.com/)
+*   **Type Descriptions:** [Comprehensive Guide](https://www.enneagraminstitute.com/type-descriptions)
 
 ### The Three Centers
 *   **Gut Center (Types 8, 9, 1):** Focus on autonomy, boundaries, and justice. Key emotion: Anger.
@@ -54,22 +60,25 @@ The Enneagram describes nine distinct personality types, grouped into three "cen
 *   **Head Center (Types 5, 6, 7):** Focus on security, guidance, and competence. Key emotion: Fear.
 
 ### The 9 Types
-1.  **Type 1: The Reformer:** Rational, idealistic, principled. Core desire: Integrity.
-2.  **Type 2: The Helper:** Caring, interpersonal, demonstrative. Core desire: To be loved.
-3.  **Type 3: The Achiever:** Success-oriented, pragmatic, adaptable. Core desire: To be valuable.
-4.  **Type 4: The Individualist:** Sensitive, withdrawn, expressive. Core desire: To be unique.
-5.  **Type 5: The Investigator:** Intense, cerebral, innovative. Core desire: To be capable.
-6.  **Type 6: The Loyalist:** Committed, security-oriented, anxious. Core desire: To have support.
-7.  **Type 7: The Enthusiast:** Busy, fun-loving, spontaneous. Core desire: To be satisfied.
-8.  **Type 8: The Challenger:** Powerful, dominating, self-confident. Core desire: To protect themselves.
-9.  **Type 9: The Peacemaker:** Easygoing, self-effacing, agreeable. Core desire: To have peace.
+1.  **Type 1: [The Reformer](https://www.enneagraminstitute.com/type-1):** Rational, idealistic, principled. Core desire: Integrity.
+2.  **Type 2: [The Helper](https://www.enneagraminstitute.com/type-2):** Caring, interpersonal, demonstrative. Core desire: To be loved.
+3.  **Type 3: [The Achiever](https://www.enneagraminstitute.com/type-3):** Success-oriented, pragmatic, adaptable. Core desire: To be valuable.
+4.  **Type 4: [The Individualist](https://www.enneagraminstitute.com/type-4):** Sensitive, withdrawn, expressive. Core desire: To be unique.
+5.  **Type 5: [The Investigator](https://www.enneagraminstitute.com/type-5):** Intense, cerebral, innovative. Core desire: To be capable.
+6.  **Type 6: [The Loyalist](https://www.enneagraminstitute.com/type-6):** Committed, security-oriented, anxious. Core desire: To have support.
+7.  **Type 7: [The Enthusiast](https://www.enneagraminstitute.com/type-7):** Busy, fun-loving, spontaneous. Core desire: To be satisfied.
+8.  **Type 8: [The Challenger](https://www.enneagraminstitute.com/type-8):** Powerful, dominating, self-confident. Core desire: To protect themselves.
+9.  **Type 9: [The Peacemaker](https://www.enneagraminstitute.com/type-9):** Easygoing, self-effacing, agreeable. Core desire: To have peace.
 
 ---
 
 ## 3. The Big Five (OCEAN)
 
 ### Overview
-The Big Five model is the most scientifically validated personality framework, describing personality along five continuous spectrums rather than types.
+The **[Big Five (Five Factor Model)](https://www.simplypsychology.org/big-five-personality.html)** model is the most scientifically validated personality framework, describing personality along five continuous spectrums rather than types.
+
+*   **Resources:** [Open Source Psychometrics Project](https://openpsychometrics.org/)
+*   **Scientific Overview:** [Wikipedia: Big Five Personality Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 
 ### The Five Traits (OCEAN)
 1.  **Openness to Experience:**
@@ -93,7 +102,10 @@ The Big Five model is the most scientifically validated personality framework, d
 ## 4. DISC Assessment
 
 ### Overview
-Often used in workplace settings, DISC focuses on observed behavior and communication styles rather than deep personality structures.
+Often used in workplace settings, **[DISC](https://www.everythingdisc.com/)** focuses on observed behavior and communication styles rather than deep personality structures.
+
+*   **Official Profile:** [Everything DiSC](https://www.everythingdisc.com/)
+*   **Resource:** [PeopleKeys](https://www.peoplekeys.com/)
 
 ### The Four Styles
 1.  **Dominance (D):**
