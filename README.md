@@ -5,6 +5,7 @@ This repository contains comprehensive resources and summaries of major personal
 ## Contents
 
 - [PERSONALITY_TYPES.md](PERSONALITY_TYPES.md): A detailed guide covering the history, structure, and key characteristics of each major personality framework.
+- [ADHD_CBT_RESOURCE.md](ADHD_CBT_RESOURCE.md): A guide on how Cognitive Behavioral Therapy (CBT) helps adults with ADHD strengthen executive pathways.
 
 ## Overview
 
